@@ -1,1 +1,3 @@
 # MERN-applicatiion
+
+\*/node-modules
