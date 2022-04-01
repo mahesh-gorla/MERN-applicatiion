@@ -1,5 +1,1 @@
-# MERN-applicatiion
-
-\*/node-modules
-
-Check
+# MERN application
